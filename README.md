@@ -6,6 +6,7 @@ Setup Instructions:
 Environment Setup: All the code files can be run in Jupyter Notebook. To use Jupyter Notebook, you must first install Anaconda.
 
 PyTorch Installation: After installing Anaconda, open the Anaconda prompt to install PyTorch by running the following command: conda install pytorch torchvision -c pytorch
+
 Running the Code: Once the installation is complete, launch Jupyter Notebook, import the necessary files from the repository, and run the code within the notebook environment.
 
 This setup will allow you to reproduce the results from the deep learning assignment.
