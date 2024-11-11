@@ -9,4 +9,4 @@ PyTorch Installation: After installing Anaconda, open the Anaconda prompt to ins
 
 Running the Code: Once the installation is complete, launch Jupyter Notebook, import the necessary files from the repository, and run the code within the notebook environment.
 
-This setup will allow you to reproduce the results from the deep learning assignment.
+This setup will allow you to reproduce the results from the deep learning assignment
